@@ -1,11 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import HomePage from './pages/home-page/home-page';
 
 function App() {
   return (
-    <div>
-     <h1> enbela</h1> 
-    </div>
+    <HomePage />
   );
 }
 

@@ -33,7 +33,7 @@ const HomePage = () => {
         <div className="d-flex flex-row justify-content-evenly flex-wrap">
           {items.map((item) => (
             <div key={item.id} className="flex-fill m-2">
-              <Card src={item.picture} title={item.name} />
+              <Card imgSrc={item.picture} title={item.name} />
             </div>
           ))}
         </div>

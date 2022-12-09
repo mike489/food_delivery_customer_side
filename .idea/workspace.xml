@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3af87f9d-6e90-43e1-9b36-414f3380e2b4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2IcZISBCciXCHNq3nn45LoBbUV2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3af87f9d-6e90-43e1-9b36-414f3380e2b4" name="Default Changelist" comment="" />
+      <created>1670482752395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670482752395</updated>
+      <workItem from="1670482759368" duration="6287000" />
+    </task>
+    <task id="LOCAL-00001" summary="component styled according to the design, sample data rendered on home page, routing setup done and current routes are working">
+      <created>1670488781398</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670488781398</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="component styled according to the design, sample data rendered on home page, routing setup done and current routes are working" />
+    <option name="LAST_COMMIT_MESSAGE" value="component styled according to the design, sample data rendered on home page, routing setup done and current routes are working" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="1172" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1670483024440">
+      <screen x="11" y="1080" width="1536" height="826" />
+    </state>
+    <state x="444" y="1172" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/11.1080.1536.826/0.0.1920.1032@11.1080.1536.826" timestamp="1670483024440" />
+    <state x="272" y="1132" key="Vcs.Push.Dialog.v2" timestamp="1670488783621">
+      <screen x="11" y="1080" width="1536" height="826" />
+    </state>
+    <state x="272" y="1132" key="Vcs.Push.Dialog.v2/11.1080.1536.826/0.0.1920.1032@11.1080.1536.826" timestamp="1670488783621" />
+  </component>
+</project>

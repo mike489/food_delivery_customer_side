@@ -5,8 +5,9 @@ import "./sign-in.scss";
 const SignIn = () => {
   return (
     <>
-      <div className=" mb-5 bg-light-slate text-center justify-content-around">
-        <span className=" display-1 mb-2 fw-bold " style={{ color: "#6322a5" }}>
+      <div className=" mb-1 bg-light-slate text-center justify-content-around ">
+        <span className=" display-1 mb-2 fw-bold " style={{ color: "#6322a5", backgroundColor:"#f4eafd" , height: "40vh", display: 'flex' ,alignItems: 'center',
+        justifyContent: 'center', }}>
           E N I B L A
         </span>
       </div>
@@ -73,7 +74,7 @@ const SignIn = () => {
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',
-        height: '27vh',
+        height: '40vh',
         
       }}>
       <p>Copyright &copy; 2022 ENIBLA. All rights reserved. </p>

@@ -65,7 +65,7 @@ const SignUp = () => {
             </div>
             <div className="col-md-6 mb-4 pb-2">
               <div className="form-outline ">
-                <label className="form-label" for="emailAddress">
+                <label className="form-label" for="email">
                   Email
                 </label>
                 <input
